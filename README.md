@@ -1,1 +1,4 @@
-# nuit_slack
+# NUIT LCs Automation
+
+## Slack <--> GForms Tooling
+These scripts were used by NUIT LCs to automate otherwise clunky tasks directly into our Slack. Before this we would manually have to review emails requesting shift unassignment and send replies to our staff. These scripts enabled us to streamline the process into a simple slack notification that automatically sent back a canned reply with our decision, at the click of a button. This saved us loads of time and enabled us to be much more responsive -- many of us had Slack running in the background and could approve requests within minutes, instead of hours.
